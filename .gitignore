@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Saved Models
+*.joblib
+
+# Zipped results
+*.zip
+
+# Temporary directories
+temp_cls_zip/
+
+# Environment
+.venv/
+venv/
